@@ -1,0 +1,7 @@
+Meeting: Weekly sync (invented example)
+Attendees: Maya, Tom, Priya
+ACTION: Someone to check the staging server by Friday
+ACTION: Tom to update the shipping page by 05/06/2026
+ACTION: Dana will book the venue by 2026-05-20
+ACTION: Priya to fix the footer links
+ACTION: Maya to send the revised quote by 2026-05-08

@@ -1,0 +1,1 @@
+{"name":"meeting-actions","version":"1.0.0","type":"module","private":true,"license":"MIT","engines":{"node":">=22"},"bin":{"meeting-actions":"bin/cli.js"},"scripts":{"test":"node --test","dry-run":"node bin/cli.js fixtures/meetings --dry-run"},"dependencies":{"@anthropic-ai/sdk":"^0.135.0"}}
